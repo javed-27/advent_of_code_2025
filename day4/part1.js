@@ -51,5 +51,4 @@ const countOfAccessedRolls = (rollsGrid) => {
 };
 
 const accessebleRolls = countOfAccessedRolls(input);
-
 console.log(accessebleRolls);
